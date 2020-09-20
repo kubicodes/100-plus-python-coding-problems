@@ -1,7 +1,7 @@
 """
 Category 2 - Number Related
 
-5: Max of two
+1: Max of two
 
 The Problem:
 
