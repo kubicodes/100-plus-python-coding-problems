@@ -1,7 +1,7 @@
 """
 Category 3 - Number Related
 
-5: Max of three
+2: Max of three
 
 The Problem:
 
