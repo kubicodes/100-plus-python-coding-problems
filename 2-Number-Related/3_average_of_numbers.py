@@ -1,15 +1,13 @@
 """
 Category 3 - Number Related
 
-5: Average of numbers
+3: Average of numbers
 
 The Problem:
 
 Take numbers from a user and show the average of the numbers the user entered.
 """
 
-"""
-"""
 
 len_of_numbers = int(input("How many numbers do you want to enter?"))
 
