@@ -1,5 +1,5 @@
 """
-Category 3 - Number Related
+Category 2 - Number Related
 
 2: Max of three
 
