@@ -18,3 +18,5 @@ I try to solve all problems and share my solutions in my repo.
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/2-Number-Related/4_divisible_by_3_and_5.py">4 - Divisble by 3 and 5</a><br>
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/2-Number-Related/5_sum_of_digits.py">5 - Sum of Digits</a><br>
 
+## 3 - Loop Related:<br>
+<a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/1_sum_of_elements.py">1 - Sum of Elements</a><br>
