@@ -23,3 +23,4 @@ I try to solve all problems and share my solutions in my repo.
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/2_largest_element_of_list.py">2 - Largest Element of a List</a><br>
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/3_sum_of_squares.py">3 - Sum of Squares</a><br>
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/4_second_largest.py">4 - Second Largest</a><br>
+<a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/5_second_smallest.py">5 - Second Smallest</a><br>
