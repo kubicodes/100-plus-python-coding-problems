@@ -25,3 +25,9 @@ I try to solve all problems and share my solutions in my repo.
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/4_second_largest.py">4 - Second Largest</a><br>
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/5_second_smallest.py">5 - Second Smallest</a><br>
 <a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/3%20-%20Loop%20Related/6_remove_duplicate_chars.py">6 - Remove Duplicate Characters</a><br>
+
+## 4 - Conversions:<br>
+<a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/4%20-%20Conversions/1_miles_to_kilometers.py">1 - Miles to Kilometers</a><br>
+<a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/4%20-%20Conversions/2_celsius_to_fahrenheit.py">2 - Celsius to Fahrenheit</a><br>
+<a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/4%20-%20Conversions/3_decimal_to_binary.py">3 - Decimal to Binary</a><br>
+<a href="https://github.com/kubicodes/100-plus-python-coding-problems/blob/master/4%20-%20Conversions/4_decimal_to_binary_recursive.py">4 - Decimal to Binary Recursive</a><br>
